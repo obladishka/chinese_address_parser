@@ -1,0 +1,614 @@
+[
+{
+    "model": "parser.province",
+    "pk": 1,
+    "fields": {
+        "cn_name": "新疆维吾尔自治区",
+        "eng_name": "Xinjiang",
+        "popularity": 0
+    }
+},
+{
+    "model": "parser.province",
+    "pk": 2,
+    "fields": {
+        "cn_name": "香港特别行政区",
+        "eng_name": "Hong Kong",
+        "popularity": 0
+    }
+},
+{
+    "model": "parser.province",
+    "pk": 3,
+    "fields": {
+        "cn_name": "澳门特别行政区",
+        "eng_name": "Macao",
+        "popularity": 0
+    }
+},
+{
+    "model": "parser.province",
+    "pk": 4,
+    "fields": {
+        "cn_name": "宁夏回族自治区",
+        "eng_name": "Ningxia",
+        "popularity": 0
+    }
+},
+{
+    "model": "parser.province",
+    "pk": 5,
+    "fields": {
+        "cn_name": "广西壮族自治区",
+        "eng_name": "Guangxi",
+        "popularity": 0
+    }
+},
+{
+    "model": "parser.province",
+    "pk": 6,
+    "fields": {
+        "cn_name": "内蒙古自治区",
+        "eng_name": "Inner Mongolia",
+        "popularity": 0
+    }
+},
+{
+    "model": "parser.province",
+    "pk": 7,
+    "fields": {
+        "cn_name": "西藏自治区",
+        "eng_name": "Tibet",
+        "popularity": 0
+    }
+},
+{
+    "model": "parser.province",
+    "pk": 8,
+    "fields": {
+        "cn_name": "黑龙江省",
+        "eng_name": "Heilongjiang Province",
+        "popularity": 0
+    }
+},
+{
+    "model": "parser.province",
+    "pk": 9,
+    "fields": {
+        "cn_name": "内蒙古",
+        "eng_name": "Inner Mongolia",
+        "popularity": 0
+    }
+},
+{
+    "model": "parser.province",
+    "pk": 10,
+    "fields": {
+        "cn_name": "河北省",
+        "eng_name": "Hebei Province",
+        "popularity": 0
+    }
+},
+{
+    "model": "parser.province",
+    "pk": 11,
+    "fields": {
+        "cn_name": "山西省",
+        "eng_name": "Shanxi Province",
+        "popularity": 0
+    }
+},
+{
+    "model": "parser.province",
+    "pk": 12,
+    "fields": {
+        "cn_name": "辽宁省",
+        "eng_name": "Lioaning Province",
+        "popularity": 0
+    }
+},
+{
+    "model": "parser.province",
+    "pk": 13,
+    "fields": {
+        "cn_name": "吉林省",
+        "eng_name": "Jilin Province",
+        "popularity": 0
+    }
+},
+{
+    "model": "parser.province",
+    "pk": 14,
+    "fields": {
+        "cn_name": "黑龙江",
+        "eng_name": "Heilongjiang Province",
+        "popularity": 0
+    }
+},
+{
+    "model": "parser.province",
+    "pk": 15,
+    "fields": {
+        "cn_name": "江苏省",
+        "eng_name": "Jiangsu Province",
+        "popularity": 0
+    }
+},
+{
+    "model": "parser.province",
+    "pk": 16,
+    "fields": {
+        "cn_name": "浙江省",
+        "eng_name": "Zhejiang Province",
+        "popularity": 0
+    }
+},
+{
+    "model": "parser.province",
+    "pk": 17,
+    "fields": {
+        "cn_name": "安徽省",
+        "eng_name": "Anhui Province",
+        "popularity": 0
+    }
+},
+{
+    "model": "parser.province",
+    "pk": 18,
+    "fields": {
+        "cn_name": "福建省",
+        "eng_name": "Fujian Province",
+        "popularity": 0
+    }
+},
+{
+    "model": "parser.province",
+    "pk": 19,
+    "fields": {
+        "cn_name": "江西省",
+        "eng_name": "Jiangxi Province",
+        "popularity": 0
+    }
+},
+{
+    "model": "parser.province",
+    "pk": 20,
+    "fields": {
+        "cn_name": "山东省",
+        "eng_name": "Shandong Province",
+        "popularity": 0
+    }
+},
+{
+    "model": "parser.province",
+    "pk": 21,
+    "fields": {
+        "cn_name": "河南省",
+        "eng_name": "Henan Province",
+        "popularity": 0
+    }
+},
+{
+    "model": "parser.province",
+    "pk": 22,
+    "fields": {
+        "cn_name": "湖北省",
+        "eng_name": "Hubei Province",
+        "popularity": 0
+    }
+},
+{
+    "model": "parser.province",
+    "pk": 23,
+    "fields": {
+        "cn_name": "湖南省",
+        "eng_name": "Hunan Province",
+        "popularity": 0
+    }
+},
+{
+    "model": "parser.province",
+    "pk": 24,
+    "fields": {
+        "cn_name": "广东省",
+        "eng_name": "Guangdong Province",
+        "popularity": 0
+    }
+},
+{
+    "model": "parser.province",
+    "pk": 25,
+    "fields": {
+        "cn_name": "海南省",
+        "eng_name": "Hainan Province",
+        "popularity": 0
+    }
+},
+{
+    "model": "parser.province",
+    "pk": 26,
+    "fields": {
+        "cn_name": "四川省",
+        "eng_name": "Sichuan Province",
+        "popularity": 0
+    }
+},
+{
+    "model": "parser.province",
+    "pk": 27,
+    "fields": {
+        "cn_name": "贵州省",
+        "eng_name": "Guizhou Province",
+        "popularity": 0
+    }
+},
+{
+    "model": "parser.province",
+    "pk": 28,
+    "fields": {
+        "cn_name": "云南省",
+        "eng_name": "Yunnan Province",
+        "popularity": 0
+    }
+},
+{
+    "model": "parser.province",
+    "pk": 29,
+    "fields": {
+        "cn_name": "陕西省",
+        "eng_name": "Shaanxi Province",
+        "popularity": 0
+    }
+},
+{
+    "model": "parser.province",
+    "pk": 30,
+    "fields": {
+        "cn_name": "甘肃省",
+        "eng_name": "Gansu Province",
+        "popularity": 0
+    }
+},
+{
+    "model": "parser.province",
+    "pk": 31,
+    "fields": {
+        "cn_name": "青海省",
+        "eng_name": "Qinghai Province",
+        "popularity": 0
+    }
+},
+{
+    "model": "parser.province",
+    "pk": 32,
+    "fields": {
+        "cn_name": "台湾省",
+        "eng_name": "Taiwan Province",
+        "popularity": 0
+    }
+},
+{
+    "model": "parser.province",
+    "pk": 33,
+    "fields": {
+        "cn_name": "北京市",
+        "eng_name": "Beijing",
+        "popularity": 0
+    }
+},
+{
+    "model": "parser.province",
+    "pk": 34,
+    "fields": {
+        "cn_name": "天津市",
+        "eng_name": "Tianjin",
+        "popularity": 0
+    }
+},
+{
+    "model": "parser.province",
+    "pk": 35,
+    "fields": {
+        "cn_name": "上海市",
+        "eng_name": "Shanghai",
+        "popularity": 0
+    }
+},
+{
+    "model": "parser.province",
+    "pk": 36,
+    "fields": {
+        "cn_name": "重庆市",
+        "eng_name": "Chongqing",
+        "popularity": 0
+    }
+},
+{
+    "model": "parser.province",
+    "pk": 37,
+    "fields": {
+        "cn_name": "河北",
+        "eng_name": "Hebei Province",
+        "popularity": 0
+    }
+},
+{
+    "model": "parser.province",
+    "pk": 38,
+    "fields": {
+        "cn_name": "山西",
+        "eng_name": "Shanxi Province",
+        "popularity": 0
+    }
+},
+{
+    "model": "parser.province",
+    "pk": 39,
+    "fields": {
+        "cn_name": "辽宁",
+        "eng_name": "Lioaning Province",
+        "popularity": 0
+    }
+},
+{
+    "model": "parser.province",
+    "pk": 40,
+    "fields": {
+        "cn_name": "吉林",
+        "eng_name": "Jilin Province",
+        "popularity": 0
+    }
+},
+{
+    "model": "parser.province",
+    "pk": 41,
+    "fields": {
+        "cn_name": "江苏",
+        "eng_name": "Jiangsu Province",
+        "popularity": 0
+    }
+},
+{
+    "model": "parser.province",
+    "pk": 42,
+    "fields": {
+        "cn_name": "浙江",
+        "eng_name": "Zhejiang Province",
+        "popularity": 0
+    }
+},
+{
+    "model": "parser.province",
+    "pk": 43,
+    "fields": {
+        "cn_name": "安徽",
+        "eng_name": "Anhui Province",
+        "popularity": 0
+    }
+},
+{
+    "model": "parser.province",
+    "pk": 44,
+    "fields": {
+        "cn_name": "福建",
+        "eng_name": "Fujian Province",
+        "popularity": 0
+    }
+},
+{
+    "model": "parser.province",
+    "pk": 45,
+    "fields": {
+        "cn_name": "江西",
+        "eng_name": "Jiangxi Province",
+        "popularity": 0
+    }
+},
+{
+    "model": "parser.province",
+    "pk": 46,
+    "fields": {
+        "cn_name": "山东",
+        "eng_name": "Shandong Province",
+        "popularity": 0
+    }
+},
+{
+    "model": "parser.province",
+    "pk": 47,
+    "fields": {
+        "cn_name": "河南",
+        "eng_name": "Henan Province",
+        "popularity": 0
+    }
+},
+{
+    "model": "parser.province",
+    "pk": 48,
+    "fields": {
+        "cn_name": "湖北",
+        "eng_name": "Hubei Province",
+        "popularity": 0
+    }
+},
+{
+    "model": "parser.province",
+    "pk": 49,
+    "fields": {
+        "cn_name": "湖南",
+        "eng_name": "Hunan Province",
+        "popularity": 0
+    }
+},
+{
+    "model": "parser.province",
+    "pk": 50,
+    "fields": {
+        "cn_name": "广东",
+        "eng_name": "Guangdong Province",
+        "popularity": 0
+    }
+},
+{
+    "model": "parser.province",
+    "pk": 51,
+    "fields": {
+        "cn_name": "海南",
+        "eng_name": "Hainan Province",
+        "popularity": 0
+    }
+},
+{
+    "model": "parser.province",
+    "pk": 52,
+    "fields": {
+        "cn_name": "四川",
+        "eng_name": "Sichuan Province",
+        "popularity": 0
+    }
+},
+{
+    "model": "parser.province",
+    "pk": 53,
+    "fields": {
+        "cn_name": "贵州",
+        "eng_name": "Guizhou Province",
+        "popularity": 0
+    }
+},
+{
+    "model": "parser.province",
+    "pk": 54,
+    "fields": {
+        "cn_name": "云南",
+        "eng_name": "Yunnan Province",
+        "popularity": 0
+    }
+},
+{
+    "model": "parser.province",
+    "pk": 55,
+    "fields": {
+        "cn_name": "陕西",
+        "eng_name": "Shaanxi Province",
+        "popularity": 0
+    }
+},
+{
+    "model": "parser.province",
+    "pk": 56,
+    "fields": {
+        "cn_name": "甘肃",
+        "eng_name": "Gansu Province",
+        "popularity": 0
+    }
+},
+{
+    "model": "parser.province",
+    "pk": 57,
+    "fields": {
+        "cn_name": "青海",
+        "eng_name": "Qinghai Province",
+        "popularity": 0
+    }
+},
+{
+    "model": "parser.province",
+    "pk": 58,
+    "fields": {
+        "cn_name": "台湾",
+        "eng_name": "Taiwan Province",
+        "popularity": 0
+    }
+},
+{
+    "model": "parser.province",
+    "pk": 59,
+    "fields": {
+        "cn_name": "北京",
+        "eng_name": "Beijing",
+        "popularity": 0
+    }
+},
+{
+    "model": "parser.province",
+    "pk": 60,
+    "fields": {
+        "cn_name": "天津",
+        "eng_name": "Tianjin",
+        "popularity": 0
+    }
+},
+{
+    "model": "parser.province",
+    "pk": 61,
+    "fields": {
+        "cn_name": "上海",
+        "eng_name": "Shanghai",
+        "popularity": 0
+    }
+},
+{
+    "model": "parser.province",
+    "pk": 62,
+    "fields": {
+        "cn_name": "重庆",
+        "eng_name": "Chongqing",
+        "popularity": 0
+    }
+},
+{
+    "model": "parser.province",
+    "pk": 63,
+    "fields": {
+        "cn_name": "广西",
+        "eng_name": "Guangxi",
+        "popularity": 0
+    }
+},
+{
+    "model": "parser.province",
+    "pk": 64,
+    "fields": {
+        "cn_name": "西藏",
+        "eng_name": "Tibet",
+        "popularity": 0
+    }
+},
+{
+    "model": "parser.province",
+    "pk": 65,
+    "fields": {
+        "cn_name": "宁夏",
+        "eng_name": "Ningxia",
+        "popularity": 0
+    }
+},
+{
+    "model": "parser.province",
+    "pk": 66,
+    "fields": {
+        "cn_name": "新疆",
+        "eng_name": "Xinjiang",
+        "popularity": 0
+    }
+},
+{
+    "model": "parser.province",
+    "pk": 67,
+    "fields": {
+        "cn_name": "香港",
+        "eng_name": "Hong Kong",
+        "popularity": 0
+    }
+},
+{
+    "model": "parser.province",
+    "pk": 68,
+    "fields": {
+        "cn_name": "澳门",
+        "eng_name": "Macao",
+        "popularity": 0
+    }
+}
+]
