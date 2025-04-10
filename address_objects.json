@@ -1,0 +1,302 @@
+[
+{
+    "model": "parser.addressobject",
+    "pk": 1,
+    "fields": {
+        "cn_name": "市",
+        "eng_name": "City",
+        "is_parent_item": true,
+        "hierarchy": "1.0"
+    }
+},
+{
+    "model": "parser.addressobject",
+    "pk": 2,
+    "fields": {
+        "cn_name": "区",
+        "eng_name": "District",
+        "is_parent_item": true,
+        "hierarchy": "2.0"
+    }
+},
+{
+    "model": "parser.addressobject",
+    "pk": 3,
+    "fields": {
+        "cn_name": "县",
+        "eng_name": "Country",
+        "is_parent_item": true,
+        "hierarchy": "2.0"
+    }
+},
+{
+    "model": "parser.addressobject",
+    "pk": 4,
+    "fields": {
+        "cn_name": "路",
+        "eng_name": "Road",
+        "is_parent_item": true,
+        "hierarchy": "3.0"
+    }
+},
+{
+    "model": "parser.addressobject",
+    "pk": 5,
+    "fields": {
+        "cn_name": "大道",
+        "eng_name": "Street",
+        "is_parent_item": true,
+        "hierarchy": "3.0"
+    }
+},
+{
+    "model": "parser.addressobject",
+    "pk": 6,
+    "fields": {
+        "cn_name": "大街",
+        "eng_name": "Street",
+        "is_parent_item": true,
+        "hierarchy": "3.0"
+    }
+},
+{
+    "model": "parser.addressobject",
+    "pk": 7,
+    "fields": {
+        "cn_name": "街",
+        "eng_name": "Street",
+        "is_parent_item": true,
+        "hierarchy": "3.0"
+    }
+},
+{
+    "model": "parser.addressobject",
+    "pk": 8,
+    "fields": {
+        "cn_name": "道",
+        "eng_name": "Street",
+        "is_parent_item": true,
+        "hierarchy": "3.0"
+    }
+},
+{
+    "model": "parser.addressobject",
+    "pk": 9,
+    "fields": {
+        "cn_name": "组",
+        "eng_name": "Group",
+        "is_parent_item": true,
+        "hierarchy": "4.0"
+    }
+},
+{
+    "model": "parser.addressobject",
+    "pk": 10,
+    "fields": {
+        "cn_name": "号",
+        "eng_name": "No.",
+        "is_parent_item": true,
+        "hierarchy": "4.0"
+    }
+},
+{
+    "model": "parser.addressobject",
+    "pk": 11,
+    "fields": {
+        "cn_name": "街道",
+        "eng_name": "Sub-District",
+        "is_parent_item": false,
+        "hierarchy": "2.1"
+    }
+},
+{
+    "model": "parser.addressobject",
+    "pk": 12,
+    "fields": {
+        "cn_name": "镇",
+        "eng_name": "Town",
+        "is_parent_item": false,
+        "hierarchy": "2.1"
+    }
+},
+{
+    "model": "parser.addressobject",
+    "pk": 13,
+    "fields": {
+        "cn_name": "社区",
+        "eng_name": "Community",
+        "is_parent_item": false,
+        "hierarchy": "2.3"
+    }
+},
+{
+    "model": "parser.addressobject",
+    "pk": 14,
+    "fields": {
+        "cn_name": "委",
+        "eng_name": "Community",
+        "is_parent_item": false,
+        "hierarchy": "2.3"
+    }
+},
+{
+    "model": "parser.addressobject",
+    "pk": 15,
+    "fields": {
+        "cn_name": "住宅区",
+        "eng_name": "Residential Quarter",
+        "is_parent_item": false,
+        "hierarchy": "2.4"
+    }
+},
+{
+    "model": "parser.addressobject",
+    "pk": 16,
+    "fields": {
+        "cn_name": "小区",
+        "eng_name": "Residential Quarter",
+        "is_parent_item": false,
+        "hierarchy": "2.4"
+    }
+},
+{
+    "model": "parser.addressobject",
+    "pk": 17,
+    "fields": {
+        "cn_name": "巷",
+        "eng_name": "Lane",
+        "is_parent_item": false,
+        "hierarchy": "3.3"
+    }
+},
+{
+    "model": "parser.addressobject",
+    "pk": 18,
+    "fields": {
+        "cn_name": "弄",
+        "eng_name": "Lane",
+        "is_parent_item": false,
+        "hierarchy": "3.3"
+    }
+},
+{
+    "model": "parser.addressobject",
+    "pk": 19,
+    "fields": {
+        "cn_name": "段",
+        "eng_name": "Section",
+        "is_parent_item": false,
+        "hierarchy": "3.5"
+    }
+},
+{
+    "model": "parser.addressobject",
+    "pk": 20,
+    "fields": {
+        "cn_name": "号院",
+        "eng_name": "Yard",
+        "is_parent_item": false,
+        "hierarchy": "4.1"
+    }
+},
+{
+    "model": "parser.addressobject",
+    "pk": 21,
+    "fields": {
+        "cn_name": "院",
+        "eng_name": "Yard",
+        "is_parent_item": false,
+        "hierarchy": "4.1"
+    }
+},
+{
+    "model": "parser.addressobject",
+    "pk": 22,
+    "fields": {
+        "cn_name": "塔",
+        "eng_name": "Tower",
+        "is_parent_item": false,
+        "hierarchy": "4.2"
+    }
+},
+{
+    "model": "parser.addressobject",
+    "pk": 23,
+    "fields": {
+        "cn_name": "号楼",
+        "eng_name": "Building",
+        "is_parent_item": false,
+        "hierarchy": "4.2"
+    }
+},
+{
+    "model": "parser.addressobject",
+    "pk": 24,
+    "fields": {
+        "cn_name": "栋",
+        "eng_name": "Building",
+        "is_parent_item": false,
+        "hierarchy": "4.2"
+    }
+},
+{
+    "model": "parser.addressobject",
+    "pk": 25,
+    "fields": {
+        "cn_name": "座",
+        "eng_name": "Building",
+        "is_parent_item": false,
+        "hierarchy": "4.2"
+    }
+},
+{
+    "model": "parser.addressobject",
+    "pk": 26,
+    "fields": {
+        "cn_name": "幢",
+        "eng_name": "Building",
+        "is_parent_item": false,
+        "hierarchy": "4.2"
+    }
+},
+{
+    "model": "parser.addressobject",
+    "pk": 27,
+    "fields": {
+        "cn_name": "单元",
+        "eng_name": "Unit",
+        "is_parent_item": true,
+        "hierarchy": "4.3"
+    }
+},
+{
+    "model": "parser.addressobject",
+    "pk": 28,
+    "fields": {
+        "cn_name": "层",
+        "eng_name": "Floor",
+        "is_parent_item": true,
+        "hierarchy": "4.6"
+    }
+},
+{
+    "model": "parser.addressobject",
+    "pk": 29,
+    "fields": {
+        "cn_name": "室",
+        "eng_name": "Room",
+        "is_parent_item": true,
+        "hierarchy": "4.6"
+    }
+},
+{
+    "model": "parser.addressobject",
+    "pk": 30,
+    "fields": {
+        "cn_name": "房",
+        "eng_name": "Room",
+        "is_parent_item": true,
+        "hierarchy": "1.0"
+    }
+}
+]

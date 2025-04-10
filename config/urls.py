@@ -5,4 +5,3 @@ urlpatterns = [
     path("admin/", admin.site.urls),
     # path("", include("parser.urls", namespace="parser")),
 ]
-
