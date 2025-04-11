@@ -4,8 +4,7 @@
     "pk": 1,
     "fields": {
         "cn_name": "高科技园区",
-        "eng_name": "Hi-Tech Zone",
-        "popularity": 0
+        "eng_name": "Hi-Tech Zone"
     }
 },
 {
@@ -13,8 +12,7 @@
     "pk": 2,
     "fields": {
         "cn_name": "号宿舍",
-        "eng_name": "Dormitory",
-        "popularity": 0
+        "eng_name": "Dormitory"
     }
 },
 {
@@ -22,8 +20,7 @@
     "pk": 3,
     "fields": {
         "cn_name": "办公楼",
-        "eng_name": "Office Building",
-        "popularity": 0
+        "eng_name": "Office Building"
     }
 },
 {
@@ -31,8 +28,7 @@
     "pk": 4,
     "fields": {
         "cn_name": "科技园",
-        "eng_name": "Science Park",
-        "popularity": 0
+        "eng_name": "Science Park"
     }
 },
 {
@@ -40,8 +36,7 @@
     "pk": 5,
     "fields": {
         "cn_name": "开发区",
-        "eng_name": "Development Zone",
-        "popularity": 0
+        "eng_name": "Development Zone"
     }
 },
 {
@@ -49,8 +44,7 @@
     "pk": 6,
     "fields": {
         "cn_name": "试验区",
-        "eng_name": "Experimental Zone",
-        "popularity": 0
+        "eng_name": "Experimental Zone"
     }
 },
 {
@@ -58,8 +52,7 @@
     "pk": 7,
     "fields": {
         "cn_name": "写字楼",
-        "eng_name": "Office Building",
-        "popularity": 0
+        "eng_name": "Office Building"
     }
 },
 {
@@ -67,8 +60,7 @@
     "pk": 8,
     "fields": {
         "cn_name": "公司",
-        "eng_name": "Company",
-        "popularity": 0
+        "eng_name": "Company"
     }
 },
 {
@@ -76,8 +68,7 @@
     "pk": 9,
     "fields": {
         "cn_name": "宿舍",
-        "eng_name": "Dormitory",
-        "popularity": 0
+        "eng_name": "Dormitory"
     }
 },
 {
@@ -85,8 +76,7 @@
     "pk": 10,
     "fields": {
         "cn_name": "酒楼",
-        "eng_name": "Hotel",
-        "popularity": 0
+        "eng_name": "Hotel"
     }
 },
 {
@@ -94,8 +84,7 @@
     "pk": 11,
     "fields": {
         "cn_name": "酒店",
-        "eng_name": "Hotel",
-        "popularity": 0
+        "eng_name": "Hotel"
     }
 },
 {
@@ -103,8 +92,7 @@
     "pk": 12,
     "fields": {
         "cn_name": "大学",
-        "eng_name": "College",
-        "popularity": 0
+        "eng_name": "College"
     }
 },
 {
@@ -112,8 +100,7 @@
     "pk": 13,
     "fields": {
         "cn_name": "大厦",
-        "eng_name": "Plaza",
-        "popularity": 0
+        "eng_name": "Plaza"
     }
 },
 {
@@ -121,8 +108,7 @@
     "pk": 14,
     "fields": {
         "cn_name": "中心",
-        "eng_name": "Center",
-        "popularity": 0
+        "eng_name": "Center"
     }
 },
 {
@@ -130,8 +116,7 @@
     "pk": 15,
     "fields": {
         "cn_name": "信箱",
-        "eng_name": "Mailbox",
-        "popularity": 0
+        "eng_name": "Mailbox"
     }
 },
 {
@@ -139,8 +124,7 @@
     "pk": 16,
     "fields": {
         "cn_name": "花园",
-        "eng_name": "Garden",
-        "popularity": 0
+        "eng_name": "Garden"
     }
 },
 {
@@ -148,8 +132,7 @@
     "pk": 17,
     "fields": {
         "cn_name": "广场",
-        "eng_name": "Square",
-        "popularity": 0
+        "eng_name": "Square"
     }
 },
 {
@@ -157,8 +140,7 @@
     "pk": 18,
     "fields": {
         "cn_name": "商铺",
-        "eng_name": "Shop",
-        "popularity": 0
+        "eng_name": "Shop"
     }
 },
 {
@@ -166,8 +148,7 @@
     "pk": 19,
     "fields": {
         "cn_name": "厂",
-        "eng_name": "Factory",
-        "popularity": 0
+        "eng_name": "Factory"
     }
 }
 ]

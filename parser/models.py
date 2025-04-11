@@ -6,26 +6,6 @@ class Province(models.Model):
 
     cn_name = models.CharField(max_length=200, verbose_name="name in Chinese", unique=True)
     eng_name = models.CharField(max_length=200, verbose_name="name in English")
-    popularity = models.PositiveIntegerField(
-        verbose_name="province popularity", help_text="Fills in automatically", default=0
-    )
-
-
-class City(models.Model):
-    """Cities sourcebook."""
-
-    cn_name = models.CharField(max_length=200, verbose_name="name in Chinese", unique=True)
-    eng_name = models.CharField(max_length=200, verbose_name="name in English")
-    province = models.ForeignKey(
-        Province,
-        on_delete=models.CASCADE,
-        verbose_name="1st parent item",
-        help_text="Select the 1st parent item according to address hierarchy",
-        related_name="cities",
-    )
-    popularity = models.PositiveIntegerField(
-        verbose_name="province popularity", help_text="Fills in automatically", default=0
-    )
 
 
 class SpecialWord(models.Model):
@@ -33,9 +13,6 @@ class SpecialWord(models.Model):
 
     cn_name = models.CharField(max_length=200, verbose_name="name in Chinese", unique=True)
     eng_name = models.CharField(max_length=200, verbose_name="name in English")
-    popularity = models.PositiveIntegerField(
-        verbose_name="province popularity", help_text="Fills in automatically", default=0
-    )
 
 
 class AddressObject(models.Model):

@@ -265,7 +265,7 @@
     "fields": {
         "cn_name": "单元",
         "eng_name": "Unit",
-        "is_parent_item": true,
+        "is_parent_item": false,
         "hierarchy": "4.3"
     }
 },
@@ -275,7 +275,7 @@
     "fields": {
         "cn_name": "层",
         "eng_name": "Floor",
-        "is_parent_item": true,
+        "is_parent_item": false,
         "hierarchy": "4.6"
     }
 },
@@ -283,9 +283,9 @@
     "model": "parser.addressobject",
     "pk": 29,
     "fields": {
-        "cn_name": "室",
-        "eng_name": "Room",
-        "is_parent_item": true,
+        "cn_name": "楼",
+        "eng_name": "Floor",
+        "is_parent_item": false,
         "hierarchy": "4.6"
     }
 },
@@ -293,9 +293,19 @@
     "model": "parser.addressobject",
     "pk": 30,
     "fields": {
+        "cn_name": "室",
+        "eng_name": "Room",
+        "is_parent_item": false,
+        "hierarchy": "4.6"
+    }
+},
+{
+    "model": "parser.addressobject",
+    "pk": 31,
+    "fields": {
         "cn_name": "房",
         "eng_name": "Room",
-        "is_parent_item": true,
+        "is_parent_item": false,
         "hierarchy": "1.0"
     }
 }
