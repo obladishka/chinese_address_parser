@@ -196,7 +196,7 @@
         "cn_name": "号院",
         "eng_name": "Yard",
         "is_parent_item": false,
-        "hierarchy": "4.1"
+        "hierarchy": "5.1"
     }
 },
 {
@@ -206,7 +206,7 @@
         "cn_name": "院",
         "eng_name": "Yard",
         "is_parent_item": false,
-        "hierarchy": "4.1"
+        "hierarchy": "5.1"
     }
 },
 {
@@ -216,7 +216,7 @@
         "cn_name": "塔",
         "eng_name": "Tower",
         "is_parent_item": false,
-        "hierarchy": "4.2"
+        "hierarchy": "5.2"
     }
 },
 {
@@ -226,7 +226,7 @@
         "cn_name": "号楼",
         "eng_name": "Building",
         "is_parent_item": false,
-        "hierarchy": "4.2"
+        "hierarchy": "5.2"
     }
 },
 {
@@ -236,7 +236,7 @@
         "cn_name": "栋",
         "eng_name": "Building",
         "is_parent_item": false,
-        "hierarchy": "4.2"
+        "hierarchy": "5.2"
     }
 },
 {
@@ -246,7 +246,7 @@
         "cn_name": "座",
         "eng_name": "Building",
         "is_parent_item": false,
-        "hierarchy": "4.2"
+        "hierarchy": "5.2"
     }
 },
 {
@@ -256,7 +256,7 @@
         "cn_name": "幢",
         "eng_name": "Building",
         "is_parent_item": false,
-        "hierarchy": "4.2"
+        "hierarchy": "5.2"
     }
 },
 {
@@ -266,7 +266,7 @@
         "cn_name": "单元",
         "eng_name": "Unit",
         "is_parent_item": false,
-        "hierarchy": "4.3"
+        "hierarchy": "5.3"
     }
 },
 {
@@ -276,7 +276,7 @@
         "cn_name": "层",
         "eng_name": "Floor",
         "is_parent_item": false,
-        "hierarchy": "4.6"
+        "hierarchy": "6.1"
     }
 },
 {
@@ -286,7 +286,7 @@
         "cn_name": "楼",
         "eng_name": "Floor",
         "is_parent_item": false,
-        "hierarchy": "4.6"
+        "hierarchy": "6.1"
     }
 },
 {
@@ -296,7 +296,7 @@
         "cn_name": "室",
         "eng_name": "Room",
         "is_parent_item": false,
-        "hierarchy": "4.6"
+        "hierarchy": "6.2"
     }
 },
 {
@@ -306,7 +306,7 @@
         "cn_name": "房",
         "eng_name": "Room",
         "is_parent_item": false,
-        "hierarchy": "1.0"
+        "hierarchy": "6.2"
     }
 }
 ]
